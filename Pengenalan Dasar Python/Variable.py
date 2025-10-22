@@ -1,3 +1,5 @@
+print("=== LATIHAN 1 ===")
+
 nama_produk = "Mie Ayam"
 harga = 12000
 stok = 10
